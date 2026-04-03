@@ -30,5 +30,3 @@ This is a backend system built using FastAPI to manage financial transactions.
 
 ## API Docs
 http://127.0.0.1:8000/docs
-## Test Line
-This is my Finance Tracker project.
